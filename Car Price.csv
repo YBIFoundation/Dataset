@@ -1,4 +1,4 @@
-name,year,selling_price,km_driven,fuel,seller_type,transmission,owner
+Name,Year,Selling_Price,KM_Driven,Fuel,Seller_Type,Transmission,Owner
 Maruti 800 AC,2007,60000,70000,Petrol,Individual,Manual,First Owner
 Maruti Wagon R LXI Minor,2007,135000,50000,Petrol,Individual,Manual,First Owner
 Hyundai Verna 1.6 SX,2012,600000,100000,Diesel,Individual,Manual,First Owner
