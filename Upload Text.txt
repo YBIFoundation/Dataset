@@ -1,0 +1,11 @@
+Date	SN	Name	Gender	Class	Age	Weight	Height	Email ID
+01-Apr	1	Abha	F	1	4	24	100	Abha@gmail.com
+02-Apr	2	Akash	M	1	4.1	28	110	Akash@gmail.com
+03-Apr	3	Aman	Male	1	4.3	30	102	Aman@gmail.com
+04-Apr	4	Amber	Male	2	5.5	31	111	Amber@gmail.com
+05-Apr	5	Ania	Female	2	5.6	29	121	Ania@gmail.com
+06-Apr	6	Anita	Female	2	5.7	33	107	Anita@gmail.com
+07-Apr	7	Anurudh	Male	3	6	37	98	Anurudh@gmail.com
+08-Apr	8	Aravali	Female	3	6.5	27	106	Aravali@gmail.com
+09-Apr	9	Asha	Female	3	7	30	114	Asha@gmail.com
+10-Apr	10	Awadh	Male		6.8	34	119	Awadh@gmail.com
