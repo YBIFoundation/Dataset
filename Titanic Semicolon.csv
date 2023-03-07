@@ -108,7 +108,7 @@
 106;1;0;Farthing, Mr. John;male;;0;0;PC 17483;221.7792;C95;S;;;
 107;1;1;Flegenheim, Mrs. Alfred (Antoinette);female;;0;0;PC 17598;31.6833;;S;7;;New York, NY
 108;1;1;Fleming, Miss. Margaret;female;;0;0;17421;110.8833;;C;4;;
-109;1;1;"Flynn, Mr. John Irwin (""Irving"")";male;36.0;0;0;PC 17474;26.3875;E25;S;5;;Brooklyn, NY
+109;1;1;Flynn, Mr. John Irwin;male;36.0;0;0;PC 17474;26.3875;E25;S;5;;Brooklyn, NY
 110;1;0;Foreman, Mr. Benjamin Laventall;male;30.0;0;0;113051;27.75;C111;C;;;New York, NY
 111;1;1;Fortune, Miss. Alice Elizabeth;female;24.0;3;2;19950;263.0;C23 C25 C27;S;10;;Winnipeg, MB
 112;1;1;Fortune, Miss. Ethel Flora;female;28.0;3;2;19950;263.0;C23 C25 C27;S;10;;Winnipeg, MB
@@ -163,7 +163,7 @@
 161;1;1;Hogeboom, Mrs. John C (Anna Andrews);female;51.0;1;0;13502;77.9583;D11;S;10;;Hudson, NY
 162;1;0;Holverson, Mr. Alexander Oskar;male;42.0;1;0;113789;52.0;;S;;38.0;New York, NY
 163;1;1;Holverson, Mrs. Alexander Oskar (Mary Aline Towner);female;35.0;1;0;113789;52.0;;S;8;;New York, NY
-164;1;1;"Homer, Mr. Harry (""Mr E Haven"")";male;35.0;0;0;111426;26.55;;C;15;;Indianapolis, IN
+164;1;1;Homer, Mr. Harry;male;35.0;0;0;111426;26.55;;C;15;;Indianapolis, IN
 165;1;1;Hoyt, Mr. Frederick Maxfield;male;38.0;1;0;19943;90.0;C93;S;D;;New York, NY /  Stamford CT
 166;1;0;Hoyt, Mr. William Fisher;male;;0;0;PC 17600;30.6958;;C;14;;New York, NY
 167;1;1;Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby);female;35.0;1;0;19943;90.0;C93;S;D;;New York, NY /  Stamford CT
@@ -328,7 +328,7 @@
 326;2;0;Andrew, Mr. Edgardo Samuel;male;18.0;0;0;231945;11.5;;S;;;Buenos Aires, Argentina / New Jersey, NJ
 327;2;0;Andrew, Mr. Frank Thomas;male;25.0;0;0;C.A. 34050;10.5;;S;;;Cornwall, England Houghton, MI
 328;2;0;Angle, Mr. William A;male;34.0;1;0;226875;26.0;;S;;;Warwick, England
-329;2;1;"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)";female;36.0;1;0;226875;26.0;;S;11;;Warwick, England
+329;2;1;Angle, Mrs. William A;female;36.0;1;0;226875;26.0;;S;11;;Warwick, England
 330;2;0;Ashby, Mr. John;male;57.0;0;0;244346;13.0;;S;;;West Hoboken, NJ
 331;2;0;Bailey, Mr. Percy Andrew;male;18.0;0;0;29108;11.5;;S;;;Penzance, Cornwall / Akron, OH
 332;2;0;Baimbrigge, Mr. Charles Robert;male;23.0;0;0;C.A. 31030;10.5;;S;;;Guernsey
@@ -594,7 +594,7 @@
 592;2;0;West, Mr. Edwy Arthur;male;36.0;1;2;C.A. 34651;27.75;;S;;;Bournmouth, England
 593;2;1;West, Mrs. Edwy Arthur (Ada Mary Worth);female;33.0;1;2;C.A. 34651;27.75;;S;10;;Bournmouth, England
 594;2;0;Wheadon, Mr. Edward H;male;66.0;0;0;C.A. 24579;10.5;;S;;;Guernsey, England / Edgewood, RI
-595;2;0;"Wheeler, Mr. Edwin ""Frederick""";male;;0;0;SC/PARIS 2159;12.875;;S;;;
+595;2;0;Wheeler, Mr. Edwin;male;;0;0;SC/PARIS 2159;12.875;;S;;;
 596;2;1;Wilhelms, Mr. Charles;male;31.0;0;0;244270;13.0;;S;9;;London, England
 597;2;1;Williams, Mr. Charles Eugene;male;;0;0;244373;13.0;;S;14;;Harrow, England
 598;2;1;Wright, Miss. Marion;female;26.0;0;0;220844;13.5;;S;9;;Yoevil, England / Cottage Grove, OR
@@ -646,7 +646,7 @@
 644;3;0;Asplund, Mr. Carl Oscar Vilhelm Gustafsson;male;40.0;1;5;347077;31.3875;;S;;142.0;Sweden  Worcester, MA
 645;3;1;Asplund, Mr. Johan Charles;male;23.0;0;0;350054;7.7958;;S;13;;Oskarshamn, Sweden Minneapolis, MN
 646;3;1;Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson);female;38.0;1;5;347077;31.3875;;S;15;;Sweden  Worcester, MA
-647;3;1;"Assaf Khalil, Mrs. Mariana (""Miriam"")";female;45.0;0;0;2696;7.225;;C;C;;Ottawa, ON
+647;3;1;Assaf Khalil, Mrs. Mariana;female;45.0;0;0;2696;7.225;;C;C;;Ottawa, ON
 648;3;0;Assaf, Mr. Gerios;male;21.0;0;0;2692;7.225;;C;;;Ottawa, ON
 649;3;0;Assam, Mr. Ali;male;23.0;0;0;SOTON/O.Q. 3101309;7.05;;S;;;
 650;3;0;Attalah, Miss. Malake;female;17.0;0;0;2627;14.4583;;C;;;
