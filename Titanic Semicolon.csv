@@ -515,7 +515,7 @@
 513;2;1;Nasser, Mrs. Nicholas (Adele Achem);female;14.0;1;0;237736;30.0708;;C;;;New York, NY
 514;2;1;Navratil, Master. Edmond Roger;male;2.0;1;1;230080;26.0;F2;S;D;;Nice, France
 515;2;1;Navratil, Master. Michel M;male;3.0;1;1;230080;26.0;F2;S;D;;Nice, France
-516;2;0;"Navratil, Mr. Michel (""Louis M Hoffman"")";male;36.5;0;2;230080;26.0;F2;S;;15.0;Nice, France
+516;2;0;Navratil, Mr. Michel;male;36.5;0;2;230080;26.0;F2;S;;15.0;Nice, France
 517;2;0;Nesson, Mr. Israel;male;26.0;0;0;244368;13.0;F2;S;;;Boston, MA
 518;2;0;Nicholls, Mr. Joseph Charles;male;19.0;1;1;C.A. 33112;36.75;;S;;101.0;Cornwall / Hancock, MI
 519;2;0;Norman, Mr. Robert Douglas;male;28.0;0;0;218629;13.5;;S;;287.0;Glasgow
@@ -588,7 +588,7 @@
 586;2;1;Weisz, Mrs. Leopold (Mathilde Francoise Pede);female;29.0;1;0;228414;26.0;;S;10;;Bromsgrove, England / Montreal, PQ
 587;2;1;Wells, Master. Ralph Lester;male;2.0;1;1;29103;23.0;;S;14;;Cornwall / Akron, OH
 588;2;1;Wells, Miss. Joan;female;4.0;1;1;29103;23.0;;S;14;;Cornwall / Akron, OH
-589;2;1;"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)";female;29.0;0;2;29103;23.0;;S;14;;Cornwall / Akron, OH
+589;2;1;Wells, Mrs. Arthur Henry;female;29.0;0;2;29103;23.0;;S;14;;Cornwall / Akron, OH
 590;2;1;West, Miss. Barbara J;female;0.92;1;2;C.A. 34651;27.75;;S;10;;Bournmouth, England
 591;2;1;West, Miss. Constance Mirium;female;5.0;1;2;C.A. 34651;27.75;;S;10;;Bournmouth, England
 592;2;0;West, Mr. Edwy Arthur;male;36.0;1;2;C.A. 34651;27.75;;S;;;Bournmouth, England
@@ -1077,10 +1077,10 @@
 1075;3;0;Odahl, Mr. Nils Martin;male;23.0;0;0;7267;9.225;;S;;;
 1076;3;0;Donoghue, Ms. Bridget;female;;0;0;364856;7.75;;Q;;;
 1077;3;1;Driscoll, Miss. Bridget;female;;0;0;14311;7.75;;Q;D;;
-1078;3;1;Dwyer, Miss. Ellen ""Nellie;female;;0;0;330959;7.8792;;Q;;;
+1078;3;1;Dwyer, Miss. Ellen Nellie;female;;0;0;330959;7.8792;;Q;;;
 1079;3;1;Ohman, Miss. Velin;female;22.0;0;0;347085;7.775;;S;C;;
 1080;3;1;Keefe, Mr. Patrick;male;;0;0;368402;7.75;;Q;B;;
-1081;3;1;Leary, Miss. Hanora ""Norah;female;;0;0;330919;7.8292;;Q;13;;
+1081;3;1;Leary, Miss. Hanora Norah;female;;0;0;330919;7.8292;;Q;13;;
 1082;3;1;Olsen, Master. Artur Karl;male;9.0;0;1;C 17368;3.1708;;S;13;;
 1083;3;0;Olsen, Mr. Henry Margido;male;28.0;0;0;C 4001;22.525;;S;;173.0;
 1084;3;0;Olsen, Mr. Karl Siegwart Andreas;male;42.0;0;1;4579;8.4042;;S;;;
@@ -1127,7 +1127,7 @@
 1125;3;0;Petersen, Mr. Marius;male;24.0;0;0;342441;8.05;;S;;;
 1126;3;0;Petranec, Miss. Matilda;female;28.0;0;0;349245;7.8958;;S;;;
 1127;3;0;Petroff, Mr. Nedelio;male;19.0;0;0;349212;7.8958;;S;;;
-1128;3;0;"Petroff, Mr. Pastcho (""Pentcho"")";male;;0;0;349215;7.8958;;S;;;
+1128;3;0;Petroff, Mr. Pastcho;male;;0;0;349215;7.8958;;S;;;
 1129;3;0;Petterson, Mr. Johan Emil;male;25.0;1;0;347076;7.775;;S;;;
 1130;3;0;Pettersson, Miss. Ellen Natalia;female;18.0;0;0;347087;7.775;;S;;;
 1131;3;1;Pickard, Mr. Berk (Berk Trembisky);male;32.0;0;0;SOTON/O.Q. 392078;8.05;E10;S;9;;
@@ -1173,7 +1173,7 @@
 1171;3;0;Sage, Master. William Henry;male;14.5;8;2;CA. 2343;69.55;;S;;67.0;
 1172;3;0;Sage, Miss. Ada;female;;8;2;CA. 2343;69.55;;S;;;
 1173;3;0;Sage, Miss. Constance Gladys;female;;8;2;CA. 2343;69.55;;S;;;
-1174;3;0;"Sage, Miss. Dorothy Edith ""Dolly""";female;;8;2;CA. 2343;69.55;;S;;;
+1174;3;0;Sage, Miss. Dorothy Edith;female;;8;2;CA. 2343;69.55;;S;;;
 1175;3;0;Sage, Miss. Stella Anna;female;;8;2;CA. 2343;69.55;;S;;;
 1176;3;0;Sage, Mr. Douglas Bullen;male;;8;2;CA. 2343;69.55;;S;;;
 1177;3;0;Sage, Mr. Frederick;male;;8;2;CA. 2343;69.55;;S;;;
